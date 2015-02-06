@@ -1,2 +1,3 @@
 # Algorithms-and-Tests
-Popular algorithms and test implemented by me
+Popular algorithms and test implemented and tested by me;
+
